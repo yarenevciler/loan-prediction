@@ -1,0 +1,10 @@
+artifact_location: file:///home/train/mlops/mlops_project/mlops_docker/mlruns/217483877296985446/models/m-99d80d8a734a4070b91c10b832f61c26/artifacts
+creation_timestamp: 1752019665783
+experiment_id: '217483877296985446'
+last_updated_timestamp: 1752019667468
+model_id: m-99d80d8a734a4070b91c10b832f61c26
+model_type: null
+name: model-random_forest
+source_run_id: a526ad0924b94efe9eec421b467f1093
+status: 2
+status_message: null

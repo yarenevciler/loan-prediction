@@ -1,0 +1,6 @@
+artifact_location: file:///home/train/mlops/mlops_project/mlops_docker/mlruns/217483877296985446
+creation_time: 1752019560996
+experiment_id: '217483877296985446'
+last_update_time: 1752019560996
+lifecycle_stage: active
+name: loan-approval-classification-pipeline
